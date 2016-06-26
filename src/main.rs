@@ -1,4 +1,6 @@
 mod inference;
+mod ifelse;
+
 extern crate rand;
 
 use std::io;
