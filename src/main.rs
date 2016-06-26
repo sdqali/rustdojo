@@ -1,3 +1,4 @@
+mod inference;
 extern crate rand;
 
 use std::io;
